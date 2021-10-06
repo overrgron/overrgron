@@ -2,10 +2,10 @@
 Eu sou Aryane, mas se quiser pode me chamar de Jão!
 
 - 💼 Atualmente trabalho com atendimento ao cliente, mas pretendo em breve migrar para a área de tecnologia. 
-- 📚 Estudo Python, um pouquinho de Java e futuramente tenho interesse em aprender Ruby. 
+- 📚 Estudo Python, HTML5, CSS3, JavaScript e futuramente tenho interesse em aprender Ruby. 
 - 😄 Tenho noção básica de Python, HTML, Algoritmos e Lógica de Programação.
 - 🎮 Pretendo desenvolver games e trabalhar na área como back-end.
-- 💻 Estou procurando mentoria para focar e acelerar os estudos..
+- 💻 Estou a procura de mentoria para focar e acelerar os estudos..
 - 📫 Como chegar até mim:
 
 <div> 
