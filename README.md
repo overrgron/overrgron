@@ -1,5 +1,5 @@
 ## Olá! 👋
-Eu sou Aryane, mas se quiser pode me chamar de Jão!
+Eu sou Aryane, resido em São Paulo e tenho 27 anos!
 
 - 💼 Atualmente trabalho com atendimento ao cliente, mas pretendo em breve migrar para a área de tecnologia. 
 - 📚 Iniciei a faculdade em Analise e Desenvolvimento de Sistemas e estudo HTML5, CSS3, JavaScript, Git/Github por conta própria. 
