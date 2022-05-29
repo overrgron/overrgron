@@ -1,8 +1,8 @@
 ## Olá! 👋
-Eu sou Aryane, resido em São Paulo e tenho 27 anos!
+Eu sou Aryane e resido em São Paulo !
 
 - 💼 Atualmente trabalho com atendimento ao cliente, mas pretendo em breve migrar para a área de tecnologia. 
-- 📚 Iniciei a faculdade em Analise e Desenvolvimento de Sistemas e estudo HTML5, CSS3, JavaScript, Git/Github por conta própria. 
+- 📚 Iniciei a faculdade em Analise e Desenvolvimento de Sistemas em janeiro e estudo HTML5, CSS3, JavaScript, Git/Github por conta própria. 
 - 😄 Tenho noção básica de HTML, Algoritmos e Lógica de Programação.
 - 🎮 Pretendo desenvolver games e trabalhar na área como dev fullstack.
 - 💻 Estou a procura de mentoria para focar e acelerar os estudos..
